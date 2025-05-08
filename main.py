@@ -13,4 +13,5 @@ while True:
         # 2. Lấy dữ liệu tại trang genk/24h
         print("2. Lấy dữ liệu tại trang genk/24h")
         crawl_genk()
+        print('aa')
 
